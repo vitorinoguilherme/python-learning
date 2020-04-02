@@ -4,11 +4,12 @@
  02.04.20 - 15h48min
 '''
 
-from math import sin, cos, tan
+from math import sin, cos, tan, radians
 
 angulo = float(input("Digite o ângulo: "))
+angulo = radians(angulo)
 
 print(f"Ângulo informado: {angulo:3.2f}\n"
-      f"Seno: {sin(angulo)}\n"
-      f"Cosseno: {cos(angulo)}\n"
-      f"Tangente: {tan(angulo)}")
+      f"Seno: {sin(angulo):.2f}\n"
+      f"Cosseno: {cos(angulo):.2f}\n"
+      f"Tangente: {tan(angulo):.2f}")
