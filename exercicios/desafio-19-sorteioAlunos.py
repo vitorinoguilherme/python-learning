@@ -1,5 +1,5 @@
 '''
- sorteioAlunos.py - Dado o ângulo cálcula seno, cosseno e tangente.
+ sorteioAlunos.py - Dados os nomes dos alunos, sorteia um aluno para apagar o quadro.
  autor: Guilherme Vitorino
  02.04.20 - 15h57min
 '''

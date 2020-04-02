@@ -1,5 +1,5 @@
 '''
- apresentacaoAlunos.py - Dado o ângulo cálcula seno, cosseno e tangente.
+ apresentacaoAlunos.py - Dados os nomes dos alunos, sorteia a ordem de apresentação.
  autor: Guilherme Vitorino
  02.04.20 - 17h06min
 '''
