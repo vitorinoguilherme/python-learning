@@ -10,4 +10,4 @@ for numeroImpar in range(1, 500):
     if numeroImpar % 2 != 0 and numeroImpar % 3 == 0:
         soma += numeroImpar
 
-print(f"Soma = {numeroImpar}")
+print(f"Soma = {soma}")
