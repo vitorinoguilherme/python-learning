@@ -1,8 +1,10 @@
-'''
- verificaPalindromo.py -
+"""
+ verificaPalindromo.py - verifica se a frase é um polindromo.
  autor: Guilherme Vitorino
- 08.04.20 - 13h40min
-'''
+ 08.04.20 - 14h26min
+"""
+# exemplos: apos a sopa; a sacada da casa; a torre da derrota; o lobo ama o lobo
+
 
 print(f"{' INFORMA SE A FRASE É UM PALÍNDROMO ':=^50}")
 
