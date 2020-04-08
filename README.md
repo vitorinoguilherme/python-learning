@@ -27,5 +27,15 @@
 
 <p>Contêm minhas resoluções dos exercícios dos desafios propostos no Curso de Python 3 do professor Gustavo Guanabara, em seu canal do youtube.</p>
 
+- [x] Curso Python 3 - Mundo 01
+- [ ] Curso Python 3 - Mundo 02
+- [ ] Curso Python 3 - Mundo 03
+
+Em progresso...
+<h1>Análise de Dados</h1>
+
+<img src="matplotlib.png" height="100%" width="100%">
+
+
 
 
